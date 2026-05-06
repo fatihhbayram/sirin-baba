@@ -1,4 +1,5 @@
-# 🍄 Şirin Baba — Conversational AI Toy for Toddlers
+# 🍄 Şirin Baba
+### Papa Smurf, but he listens · Yerel AI ile konuşan peluş oyuncak
 
 > A voice-interactive Papa Smurf plush toy that answers a 3-year-old's questions with pedagogically-tuned responses, powered by a local LLM. Built with Rust (ESP32 firmware) and Python (AI backend).
 >
